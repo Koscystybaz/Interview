@@ -1,0 +1,5 @@
+<map id="cluster" name="cluster">
+<area shape="rect" id="node1" title="Main clustering function." alt="" coords="172,31,233,57"/>
+<area shape="rect" id="node2" href="$functions_8cpp.html#a624b3f1d239a09019422537debaf0dec" title="Calculating new clusters grouping based on new centroids." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$functions_8cpp.html#ab713a10e9178f03cb29ac95456b5ad6e" title="Calculate centroids for cluster groups." alt="" coords="15,56,115,83"/>
+</map>

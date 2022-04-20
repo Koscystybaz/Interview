@@ -1,0 +1,6 @@
+<map id="distance" name="distance">
+<area shape="rect" id="node1" title="Calculate distances between vectors." alt="" coords="429,5,500,32"/>
+<area shape="rect" id="node2" href="$functions_8cpp.html#a624b3f1d239a09019422537debaf0dec" title="Calculating new clusters grouping based on new centroids." alt="" coords="263,5,381,32"/>
+<area shape="rect" id="node3" href="$functions_8cpp.html#a481e42205dea393958d6aefec03977ff" title="Main clustering function." alt="" coords="153,5,215,32"/>
+<area shape="rect" id="node4" href="$functions_8cpp.html#ab713a10e9178f03cb29ac95456b5ad6e" title="Calculate centroids for cluster groups." alt="" coords="5,5,105,32"/>
+</map>

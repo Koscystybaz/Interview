@@ -1,0 +1,10 @@
+<map id="updateMeans" name="updateMeans">
+<area shape="rect" id="node1" title="Calculate centroids for cluster groups." alt="" coords="5,107,105,133"/>
+<area shape="rect" id="node2" href="$functions_8cpp.html#a481e42205dea393958d6aefec03977ff" title="Main clustering function." alt="" coords="153,107,215,133"/>
+<area shape="rect" id="node3" href="$functions_8cpp.html#ab90ce034d2f960a57b536687355d83aa" title="Prepare memory for data." alt="" coords="289,5,355,32"/>
+<area shape="rect" id="node4" href="$functions_8cpp.html#a4518712782ae4f838653319f2f54c04f" title="Propose random clustering for data." alt="" coords="273,56,371,83"/>
+<area shape="rect" id="node5" href="$functions_8cpp.html#a2a6a076f322cda547bccb50174217bd2" title="Normalizating input data using standard deviation." alt="" coords="279,107,365,133"/>
+<area shape="rect" id="node6" href="$functions_8cpp.html#a624b3f1d239a09019422537debaf0dec" title="Calculating new clusters grouping based on new centroids." alt="" coords="263,157,381,184"/>
+<area shape="rect" id="node7" href="$functions_8cpp.html#af5d070164c3812ac43ff336a501d5505" title="Calculate distances between vectors." alt="" coords="431,132,502,159"/>
+<area shape="rect" id="node8" href="$functions_8cpp.html#af80000f3c43ffa2c0713101931eba40e" title="Get the closest centroid." alt="" coords="429,183,504,209"/>
+</map>

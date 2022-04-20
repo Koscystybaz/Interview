@@ -1,0 +1,6 @@
+<map id="exportFile" name="exportFile">
+<area shape="rect" id="node1" title="Exports data to output file in format of txt with final form of clusters grouped." alt="" coords="5,56,84,83"/>
+<area shape="rect" id="node2" href="$exporter_8cpp.html#a036402b32405962c1246b7ffa367b2fc" title="Export cluster resolution to output file." alt="" coords="132,5,245,32"/>
+<area shape="rect" id="node3" href="$exporter_8cpp.html#adc7b1d53151ab9cb58585e7280aedd41" title="Exports data to exportFile function." alt="" coords="146,56,231,83"/>
+<area shape="rect" id="node4" href="$exporter_8cpp.html#a8201fdca18814d07ed7a343793ba3498" title="Exports groups of splitted clusters to ountput file." alt="" coords="141,107,237,133"/>
+</map>
